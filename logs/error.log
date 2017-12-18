@@ -1,0 +1,4 @@
+2017/12/18 15:57:14 [error] 8436#6980: *1 CreateFile() "C:/Users/admin/Documents/HBuilderProject/Demo/Demo/demo.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /Demo/demo.html?__hbt=1513583687380 HTTP/1.1", host: "127.0.0.1:8010"
+2017/12/18 15:57:14 [error] 8436#6980: *1 CreateFile() "C:/Users/admin/Documents/HBuilderProject/Demo/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8010", referrer: "http://127.0.0.1:8010/Demo/demo.html?__hbt=1513583687380"
+2017/12/18 16:16:58 [notice] 23676#2788: signal process started
+2017/12/18 16:59:09 [notice] 22960#11964: signal process started
