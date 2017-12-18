@@ -1,9 +1,9 @@
 var data = {
-  name: 'taobao', // 名称 --- 不能中文字符
+  name: 'baidu', // 名称 --- 不能中文字符
   port: 8010, // 端口
   path: 'C:/Users/admin/Documents/HBuilderProject/Demo', // 本地项目路径
   index: 'index', // 项目首页的html文件名
-  url: 'https://s.taobao.com/' // 请求的url
+  url: 'https://www.baidu.com/' // 请求的url
 }
 
 /*备注*/
