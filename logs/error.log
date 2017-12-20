@@ -1,11 +1,4 @@
-2017/12/18 15:57:14 [error] 8436#6980: *1 CreateFile() "C:/Users/admin/Documents/HBuilderProject/Demo/Demo/demo.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /Demo/demo.html?__hbt=1513583687380 HTTP/1.1", host: "127.0.0.1:8010"
-2017/12/18 15:57:14 [error] 8436#6980: *1 CreateFile() "C:/Users/admin/Documents/HBuilderProject/Demo/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8010", referrer: "http://127.0.0.1:8010/Demo/demo.html?__hbt=1513583687380"
-2017/12/18 16:16:58 [notice] 23676#2788: signal process started
-2017/12/18 16:59:09 [notice] 22960#11964: signal process started
-2017/12/18 17:48:45 [notice] 10716#16936: signal process started
-2017/12/18 17:48:45 [error] 10716#16936: CreateFile() "F:\WORK\nginx_quick/logs/nginx.pid" failed (2: The system cannot find the file specified)
-2017/12/18 17:49:23 [error] 24248#26560: *1 CreateFile() "C:UsersadminDocumentsHBuilderProjectDemo/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /index.html HTTP/1.1", host: "127.0.0.1:8010"
-2017/12/18 17:49:29 [error] 24248#26560: *1 CreateFile() "C:UsersadminDocumentsHBuilderProjectDemo/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 127.0.0.1, request: "GET /index.html HTTP/1.1", host: "127.0.0.1:8010"
-2017/12/18 17:50:05 [notice] 16820#18016: signal process started
-2017/12/18 17:51:01 [notice] 26572#25628: signal process started
-2017/12/18 17:51:01 [error] 26572#25628: CreateFile() "F:\WORK\nginx_quick/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/20 02:30:37 [notice] 31812#5100: signal process started
+2017/12/20 02:30:37 [error] 31812#5100: CreateFile() "F:\WORK\nginx_quick/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/12/20 09:31:10 [emerg] 32600#15080: CreateFile() "F:\WORK\nginx_quick/conf/vhost/Ìù°É.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page) in F:\WORK\nginx_quick/conf/nginx.conf:116
+2017/12/20 09:31:23 [emerg] 28932#18800: CreateFile() "F:\WORK\nginx_quick/conf/vhost/Ìù°É.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page) in F:\WORK\nginx_quick/conf/nginx.conf:116
